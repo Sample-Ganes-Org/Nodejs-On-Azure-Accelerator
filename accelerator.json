@@ -30,7 +30,7 @@
       },
       {
         "name": "APP_INSIGHTS_LOCATION",
-        "description": "Location of app insights"
+        "description": "Location of app insights",
         "value": "eastus"
       }
     ]
