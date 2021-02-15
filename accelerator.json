@@ -41,6 +41,11 @@
   ],
   "startupWorkflows" : [
     {
+      "path": ".github/workflows/deploy.yml",
+      "name": "deploy.yml",
+      "ref": "main"
+    },
+    {
       "path": ".github/workflows/provisionResources.yml",
       "name": "provisionResources.yml",
       "ref": "main"
