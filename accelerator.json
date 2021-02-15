@@ -10,23 +10,28 @@
     "placeHolders": [
       {
         "name": "RESOURCE_GROUP",
-        "description": "Resource group name"
+        "description": "Resource group name",
+        "value": "{0}-rg"
       },
       {
         "name": "RESOURCE_GROUP_LOCATION",
-        "description": "Resource group location"
+        "description": "Resource group location",
+        "value": "eastus"
       },
       {
         "name": "FUNCTION_APP_NAME",
-        "description": "Name of the function to be created"
+        "description": "Name of the function to be created",
+        "value": "{0}-node-app"
       },
       {
         "name": "RUN_TIME",
-        "description": "Runtime stack of the app"
+        "description": "Runtime stack of the app",
+        "value": "node"
       },
       {
         "name": "APP_INSIGHTS_LOCATION",
         "description": "Location of app insights"
+        "value": "eastus"
       }
     ]
   },
