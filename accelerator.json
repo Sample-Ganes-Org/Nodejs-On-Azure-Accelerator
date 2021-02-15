@@ -10,8 +10,7 @@
     "placeHolders": [
       {
         "name": "RESOURCE_GROUP",
-        "description": "Resource group name",
-        "value": "{0}-rg"
+        "description": "Resource group name"
       },
       {
         "name": "RESOURCE_GROUP_LOCATION",
@@ -20,8 +19,7 @@
       },
       {
         "name": "FUNCTION_APP_NAME",
-        "description": "Name of the function to be created",
-        "value": "{0}-node-app"
+        "description": "Name of the function app to be created"
       },
       {
         "name": "RUN_TIME",
