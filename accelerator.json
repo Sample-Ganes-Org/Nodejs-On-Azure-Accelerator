@@ -10,7 +10,8 @@
     "placeHolders": [
       {
         "name": "RESOURCE_GROUP",
-        "description": "Resource group name"
+        "description": "Resource group name",
+        "value": "sample-ganes-rg"
       },
       {
         "name": "RESOURCE_GROUP_LOCATION",
@@ -19,7 +20,8 @@
       },
       {
         "name": "FUNCTION_APP_NAME",
-        "description": "Name of the function app to be created"
+        "description": "Name of the function app to be created",
+        "value": "sample-node-function-app"
       },
       {
         "name": "RUN_TIME",
